@@ -1,6 +1,9 @@
 # TD_BezierCurveEditor
 
-https://user-images.githubusercontent.com/60187867/233823847-d4302736-eef7-4b97-828e-c8dcd0de2a57.mp4
+
+
+https://user-images.githubusercontent.com/60187867/233824961-65d0cbd6-d7f0-472e-97ac-94cf9c089bdc.mp4
+
 
 This tox allows CHOP curve creation and editing in a simple interface.
 
