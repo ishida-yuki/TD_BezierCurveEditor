@@ -7,7 +7,7 @@ This tox allows CHOP curve creation and editing in a simple interface.
 
 # Usage
 1. Put BezierCurveEditor.tox to somewhere
-2. `Ctrl + Shift + F` to open ShaderBuilder palette
+2. `Ctrl + Shift + F` to open BezierCurveEditor window
 3. Create an operator with drag & drop on the network editor
 
 # Parameters
